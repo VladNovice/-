@@ -1,6 +1,6 @@
 # Гайд по деплою бота на сервер
 
-В этом гайде мы будем использовать TimeWeb Cloud timeweb.cloud (https://timeweb.cloud/).
+В этом гайде мы будем использовать [TimeWeb>Cloud](https://timeweb.cloud/).
 
 ## Шаг 1 Регистрация
 
@@ -56,7 +56,7 @@
 
 ### Установка FileZilla
 
-Перед тем как продолжить, скачайте и установите FileZilla filezilla-project.org (https://filezilla-project.org/).
+Перед тем как продолжить, скачайте и установите [FileZilla](https://filezilla-project.org/).
 
 ![изображение](https://github.com/user-attachments/assets/496c45ba-87a0-424f-8807-9b15e01ce722)
 
